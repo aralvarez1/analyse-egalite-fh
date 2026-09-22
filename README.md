@@ -63,6 +63,3 @@ Les prochaines étapes pourraient inclure :
 
 - KNIME
 - CSV
-
-Arthur Alvarez  
-Data Analyst — reporting, visualisation & automatisation
